@@ -1,0 +1,17 @@
+.card{
+    background-image: linear-gradient(rgb(255, 255, 255), rgba(255, 255, 255, 0.137));
+    border-radius: 30px;
+    width: 350px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card p{
+    font-size: 18px;
+    font-weight: lighter;
+    max-width: 300px;
+    font-family: 'Quarts';
+    text-align: center;
+    color: rgb(73, 5, 73);
+}

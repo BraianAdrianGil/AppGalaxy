@@ -1,0 +1,12 @@
+button{
+    margin-top: 1rem;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    border: none;
+    box-shadow: 0 0 5px 1px rgba(51, 146, 235, 0.852);
+}
+box-icon[name='revision'][animation='flashing'] {
+    width: 25px;
+    height: 25px;
+  }
