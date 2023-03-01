@@ -1,5 +1,4 @@
 @font-face {
-    font-family: 'Quarts';
-    src: url('./assets/font/quartz.ttf') format('truetype');
-  }
-
+  font-family: "Quarts";
+  src: url("./assets/font/quartz.ttf") format("truetype");
+}
