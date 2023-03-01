@@ -22,7 +22,7 @@ function App() {
 
   return (
     <div className="App" style={{backgroundImage: `url(${spaceImages[currentBackgroundImage]})`}}>
-      <h1>INFOGALAX</h1>
+      <h1>INFOGALAXY</h1>
       <div className='description__container'>
       <Card data={currentData} />
       <Button onClick={handleChangeData} />
